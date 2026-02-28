@@ -1,23 +1,19 @@
 <div align="center">
 
 ```
-███╗   ███╗ █████╗ ██╗  ██╗███╗   ███╗██╗   ██╗██████╗
-████╗ ████║██╔══██╗██║  ██║████╗ ████║██║   ██║██╔══██╗
-██╔████╔██║███████║███████║██╔████╔██║██║   ██║██║  ██║
-██║╚██╔╝██║██╔══██║██╔══██║██║╚██╔╝██║██║   ██║██║  ██║
-██║ ╚═╝ ██║██║  ██║██║  ██║██║ ╚═╝ ██║╚██████╔╝██████╔╝
-╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝ ╚═════╝ ╚═════╝
+███████╗██╗   ██╗██████╗ ██╗   ██╗███████╗███╗   ██╗ ██████╗ ██╗
+██╔════╝██║   ██║██╔══██╗╚██╗ ██╔╝██╔════╝████╗  ██║██╔════╝ ██║
+█████╗  ██║   ██║██████╔╝ ╚████╔╝ █████╗  ██╔██╗ ██║██║  ███╗██║
+██╔══╝  ██║   ██║██╔══██╗  ╚██╔╝  ██╔══╝  ██║╚██╗██║██║   ██║██║
+██║     ╚██████╔╝██║  ██║   ██║   ███████╗██║ ╚████║╚██████╔╝██║
+╚═╝      ╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚══════╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝
 ```
 
 ### `backend engineer` · `devops` · `cloud & platform engineering`
 
 *Building systems that deploy themselves.*
 
-[![Profile Views](https://komarev.com/ghpvc/?username=furyengi&style=flat-square&color=00ff88&label=profile+views)](https://github.com/furyengi)
-&nbsp;&nbsp;
-![Available for Remote](https://img.shields.io/badge/remote-worldwide-00ff88?style=flat-square)
-&nbsp;&nbsp;
-![Africa](https://img.shields.io/badge/based_in-Africa-00ff88?style=flat-square)
+
 
 </div>
 
@@ -116,9 +112,9 @@ Nginx · Traefik
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🏗️ Custom CI/CD Runner *(Flagship)*
+###  Custom CI/CD Runner 
 > *A fully automated CI/CD runner built from scratch — orchestrating builds, tests, and deployments across multiple stacks.*
 
 - **Auto-detects** project stack (Python / Node.js) from repo structure
@@ -129,12 +125,12 @@ Nginx · Traefik
 
 `Python` `Docker` `Celery` `PostgreSQL` `GitHub Actions` `pxxl.app`
 
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/furyengi/YOUR_REPO)
-[![Demo](https://img.shields.io/badge/Live-Dashboard-00ff88?style=flat-square)](https://your-demo-link.com)
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/furyengi/runxr.git)
+[![Demo](https://img.shields.io/badge/Live-Dashboard-00ff88?style=flat-square)](https://runxr.pxxl.click)
 
 ---
 
-### 🔌 Scalable API Platform
+### Scalable API Platform
 > *Cloud-ready API platform built for multi-user SaaS — with RBAC, background jobs, and automated deployments.*
 
 - RESTful/GraphQL API with **role-based auth & permissions**
@@ -144,7 +140,7 @@ Nginx · Traefik
 
 `FastAPI` `Django` `PostgreSQL` `Redis` `Docker` `pxxl.app`
 
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/furyengi/YOUR_REPO)
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/furyengi/scalable-api.git)
 
 ---
 
@@ -160,27 +156,13 @@ Nginx · Traefik
 
 [![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/furyengi/YOUR_REPO)
 
----
 
-### ☁️ Cloud Deployment Demo
-> *Full-stack cloud deployment showcasing infra automation, scaling, and observability.*
 
-- SSL, backups, auto-scaling with automated pipelines
-- Rollback capabilities and artifact versioning
-- Monitoring and logging integration out of the box
-
-`FastAPI` `Next.js` `Docker` `GitHub Actions` `pxxl.app`
-
-[![Demo](https://img.shields.io/badge/Live-Demo-00ff88?style=flat-square)](https://your-demo-link.com)
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/furyengi/YOUR_REPO)
-
----
-
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
-![Mahmud's GitHub Stats](https://github-readme-stats.vercel.app/api?username=furyengi&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=ffffff)
+![furyengi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=furyengi&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=ffffff)
 &nbsp;&nbsp;
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=furyengi&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=ffffff)
 
@@ -188,7 +170,7 @@ Nginx · Traefik
 
 ---
 
-## 💼 Experience
+## Experience
 
 **Backend & DevOps Engineer** — *Self-Initiated Projects* &nbsp;`2025 – Present`
 
@@ -200,17 +182,15 @@ Nginx · Traefik
 
 ---
 
-## 📬 Get In Touch
+## Get In Touch
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-your@email.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Email](https://img.shields.io/badge/Email-your@email.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:furyengi@gmail.com)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_PROFILE)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/furyengi)
 &nbsp;
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_HANDLE)
-&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00ff88?style=for-the-badge&logo=vercel&logoColor=black)](https://your-portfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00ff88?style=for-the-badge&logo=vercel&logoColor=black)](https://furyengi.pxxl.click)
 
 *Open to backend, DevOps, and platform engineering roles — remote, worldwide.*
 
@@ -219,5 +199,5 @@ Nginx · Traefik
 ---
 
 <div align="center">
-<sub>Built with precision. Deployed with automation. 🛠️</sub>
+<sub>furyengi 2026</sub>
 </div>
