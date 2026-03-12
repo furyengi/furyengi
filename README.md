@@ -130,31 +130,7 @@ Nginx · Traefik
 
 ---
 
-### Scalable API Platform
-> *Cloud-ready API platform built for multi-user SaaS — with RBAC, background jobs, and automated deployments.*
 
-- RESTful/GraphQL API with **role-based auth & permissions**
-- **Background job processing** via Celery for async tasks
-- Caching + DB optimization for high-throughput performance
-- Auto-deployed via custom CI/CD runner
-
-`FastAPI` `Django` `PostgreSQL` `Redis` `Docker` `pxxl.app`
-
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/furyengi/scalable-api.git)
-
----
-
-### 🛠️ Automation & Platform Toolset
-> *Internal DevOps tooling: CLI, automation scripts, and infra management utilities.*
-
-- CLI for managing infrastructure services and job orchestration
-- One-command deployment for containerized apps
-- Backup/restore scripts for databases and media assets
-- Logging and monitoring utilities
-
-`Python` `Bash` `Docker` `Terraform` `pxxl.app`
-
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/furyengi/YOUR_REPO)
 
 
 
